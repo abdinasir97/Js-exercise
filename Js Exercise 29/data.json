@@ -1,0 +1,12 @@
+{
+    "nam":"abdinasir",
+    "id":144,
+    "nationality":"somalian",
+    "orders": [
+        {"id":1, "product":"pen", "price":"$20"},
+        {"id":2, "product":"book", "price":"$50"},
+        {"id":3, "product":"shirt", "price":"$80"},
+        {"id":4, "product":"computer", "price":"$100"}
+    ]
+
+}
